@@ -1,0 +1,13 @@
+.pixel{
+	background-color: #9A9A9A;
+	height:32px;
+	width:32px;
+	float:left;
+	margin:0 0 0 0;
+	}
+#container{
+	width:512px;
+	height:512px;
+	display:block;
+	margin:200px auto;
+}
